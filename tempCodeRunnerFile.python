@@ -1,0 +1,11 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+cards = 52
+
+aces = 4
+
+ace_prob = aces/cards
+
+print(ace_prob)
